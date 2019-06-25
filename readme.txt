@@ -6,8 +6,4 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 dev
 
-change
-no bug!
-
-
-newtest
+new dev
